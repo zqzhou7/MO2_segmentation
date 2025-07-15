@@ -11,13 +11,14 @@ This is useful when preprocessing raw oxygen sensor outputs (e.g., from PreSens 
 ## 🗂 Repository Contents
 ```
 .
+├── README.md
 ├── respiRate_highR1_t1.csv
 ├── respiRate_highR1_t2.csv
 ├── respiRate_highR1_t3.csv
 ├── respiRate_highR1_t4.csv
 ├── respiRate_highR1_t5.csv
 ├── oxygen_segments_all_rounds.csv     # Output file
-└── data_segmentation.R            # Main R script
+└── data_segmentation.R                # Main R script
 ```
 
 ## 🧪 Required R Packages
