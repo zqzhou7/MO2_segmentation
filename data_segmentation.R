@@ -1,5 +1,5 @@
 # segment_oxygen_trials.R
-# Author: Zhengquan Zhou
+# Author: zqzhou7
 # Description: Segment valid oxygen measurement periods across 5 trials, and summarize by segment.
 
 # Load required packages
