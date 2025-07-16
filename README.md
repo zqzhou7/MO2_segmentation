@@ -59,5 +59,9 @@ The script will:
 
 ## 📄 Citation
 
-If you use or modify this repository, feel free to cite or contact the author.
-© 2025 zqzhou7
+If you use or modify this repository, feel free to cite or contact the author, visit:  
+🔗 [Zhengquan Zhou on ResearchGate](https://www.researchgate.net/profile/Zhengquan-Zhou)
+
+---
+
+© 2025 @zqzhou7
